@@ -57,8 +57,6 @@ button {
 } 
 
 form {
-   
-    
     width: 30%;
     margin: auto;
     padding-top: 50px;
@@ -67,7 +65,6 @@ form {
 
 }
 .show {
-
     display: block;
 }
 
@@ -88,22 +85,4 @@ form {
     font-weight: 900;
     text-align: center;
 }
-
-/* .search {
-    position: absolute;
-    text-align: center;
-    height: 50px;
-    width: 100%;
-    margin: auto;
-    padding-top: 50px;
-   
-    opacity: 0.5;
-} */
-/*
-.results {
-    text-align: center;
-    margin: auto;
-    background-color: aqua;
-    border-top: 1px solid #333;
-} */
 
